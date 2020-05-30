@@ -1,0 +1,64 @@
+body {
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+}
+h1 {
+  color: hsl(179, 62%, 43%);
+}
+h2 {
+  color: hsl(71, 73%, 54%);
+  padding-top: 20px;
+}
+p {
+  line-height: 2;
+}
+button {
+  background-color: hsl(71, 73%, 54%);
+  color: white;
+  border: none;
+}
+button:hover {
+  background-color: hsl(71, 64%, 46%);
+}
+.top-paragraph {
+  color: hsl(218, 22%, 67%);
+}
+.bottom-paragraph {
+  color: white;
+  padding-top: 10px;
+}
+.first-part {
+  text-align: left;
+  padding: 50px;
+}
+.second-part {
+  color: white;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+#container {
+  margin-top: 100px;
+  max-width: 800px;
+}
+.first-column {
+  background-color: hsl(179, 62%, 43%);
+}
+.second-column {
+  background-color: hsl(179, 47%, 52%);
+}
+
+.price {
+  font-size: 40px;
+}
+.container .first-column,
+.container .second-column {
+  padding: 50px;
+}
+.payment {
+  color: hsl(179, 70%, 83%);
+}
